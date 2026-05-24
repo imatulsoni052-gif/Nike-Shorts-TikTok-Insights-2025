@@ -32,52 +32,35 @@ Result: A data-driven framework for improving campaign ROI and audience retentio
 Languages & Tools
 
 Python
-
 MySQL
-
 Power BI
 
 Libraries
 
 Pandas
-
 NumPy
-
 Scikit-learn
-
 Matplotlib
-
 Seaborn
 
 Core Skills Demonstrated
 
 Data Cleaning & Preprocessing
-
 Exploratory Data Analysis (EDA)
-
 Feature Engineering
-
 Data Visualization
-
 Predictive Modeling
 
 🔄 End-to-End Workflow
 📊 SQL Analysis (12 Business Questions)
 
 Platform comparison (TikTok vs YouTube)
-
 Regional performance analysis
-
 Creator impact & ranking
-
 Hashtag and emoji effectiveness
-
 Upload timing optimization
-
 Device & traffic source analysis
-
 Seasonal trend insights
-
 Data quality validation
 
 Focus: Turning business questions into data-driven answers
@@ -85,13 +68,9 @@ Focus: Turning business questions into data-driven answers
 📈 Power BI Dashboards
 
 Executive Overview (KPIs & performance)
-
 Content Insights (categories, hashtags, duration)
-
 Creator Analysis (top creators, engagement)
-
 Market & Device Analysis (geo + device behavior)
-
 Trend & Seasonality (time-series insights)
 
 Outcome: Clear storytelling for decision-makers
@@ -100,31 +79,22 @@ Outcome: Clear storytelling for decision-makers
 🔹 Logistic Regression — Viral Prediction
 
 Predicts whether a video will go viral (1) or not viral (0)
-
 Uses features like engagement velocity, timing, category, and emoji usage
-
 Evaluated using Accuracy, Precision, Recall, F1-score, ROC-AUC
-
 Business Value: Predict content success before publishing
 
 🔹 Linear Regression — Completion Rate Prediction
 
 Predicts viewer retention (completion rate)
-
 Key insight: Shorter videos lead to higher completion
-
 Seasonal content leads to higher engagement
-
 Business Value: Optimize video length, timing, and content strategy
 
 🔍 Key Insights
 
 TikTok outperforms YouTube in views and engagement
-
 Sports and lifestyle content drive higher retention
-
 Emoji usage positively impacts engagement
-
 Algorithm-driven feeds (For You) boost completion rates
 
 Seasonal campaigns significantly increase performance
@@ -132,13 +102,9 @@ Seasonal campaigns significantly increase performance
 📁 Repository Structure
 
 data/ — Raw & processed datasets
-
 notebooks/ — EDA + ML notebooks
-
 sql/ — Business queries
-
 dashboards/ — Power BI dashboard screenshots
-
 outputs/ — Charts & results
 
 README.md
@@ -146,13 +112,9 @@ README.md
 🧠 What This Project Demonstrates
 
 Strong understanding of business-driven analytics
-
 Ability to build end-to-end data pipelines
-
 Hands-on experience with real-world ML use cases
-
 Skill in converting data into actionable insights
-
 Clear communication through dashboards and storytelling
 
 📬 Contact
