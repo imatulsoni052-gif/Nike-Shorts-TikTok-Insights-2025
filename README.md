@@ -109,6 +109,7 @@ MAE : 0.0349684624995798
 RMSE: 0.04680459060065415
 
 R^2 : 0.8272841490218958
+
 🔍 Key Insights
 
 TikTok outperforms YouTube in views and engagement
