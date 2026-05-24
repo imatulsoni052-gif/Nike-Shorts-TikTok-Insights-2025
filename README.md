@@ -114,8 +114,8 @@ Seasonal campaigns significantly increase performance
 
 Atul Soni
 
-LinkedIn: linkedin.com/in/atul-soni-ab4638393
-GitHub: github.com/imatulsoni052-gif 
+LinkedIn: www.linkedin.com/in/atul-soni-ab4638393
+GitHub: https://www.wscubetech.com/portfolio/data/atul-soni-8nrpnp1
 Portfolio: https://www.wscubetech.com/portfolio/data/atul-soni-8nrpnp1
 ⭐ Final Thought
 
