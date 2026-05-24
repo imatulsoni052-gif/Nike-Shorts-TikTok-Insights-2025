@@ -82,6 +82,12 @@ Predicts whether a video will go viral (1) or not viral (0)
 Uses features like engagement velocity, timing, category, and emoji usage
 Evaluated using Accuracy, Precision, Recall, F1-score, ROC-AUC
 Business Value: Predict content success before publishing
+Evaluation metrics:
+Accuracy : 0.8973585690515807
+Precision: 0.6737193763919822
+Recall   : 0.9438377535101404
+F1 Score : 0.7862248213125406
+ROC AUC  : 0.9622005782350104
 
 🔹 Linear Regression — Completion Rate Prediction
 
@@ -89,7 +95,12 @@ Predicts viewer retention (completion rate)
 Key insight: Shorter videos lead to higher completion
 Seasonal content leads to higher engagement
 Business Value: Optimize video length, timing, and content strategy
-
+Evaluation metrics:
+Cross-validation R^2: 0.8268867599942613
+Linear Regression Results
+MAE : 0.0349684624995798
+RMSE: 0.04680459060065415
+R^2 : 0.8272841490218958
 🔍 Key Insights
 
 TikTok outperforms YouTube in views and engagement
