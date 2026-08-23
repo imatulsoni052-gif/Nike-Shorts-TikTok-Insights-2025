@@ -124,7 +124,9 @@ README.md
 
 Atul Soni
 LinkedIn: www.linkedin.com/in/atul-soni-ab4638393
+
 GitHub: https://github.com/imatulsoni052-gif
+
 Portfolio: https://www.wscubetech.com/portfolio/data/atul-soni-8nrpnp1
 
 **Final Thought**
